@@ -10,4 +10,4 @@ On Windows copy all the wallpapers file to any where you want eg. username\Pictu
 on android just copy files in sd card or internal sdcard directory named "Pictures"
 --------------------------------------------------------------------
 
-[<img src="https://img.youtube.com/vi/fNO0FNmurjg/maxresdefault.jpg" width="50%">](https://youtu.be/fNO0FNmurjg)
+![alt text](https://www.github.com/hiru92/main/dark-light-wallpaper04.jpg)
