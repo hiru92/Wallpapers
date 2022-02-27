@@ -11,4 +11,4 @@ on android just copy files in sd card or internal sdcard directory named "Pictur
 --------------------------------------------------------------------
 
 ![alt text](https://github.com/hiru92/Wallpapers/blob/main/dark-light-wallpaper04.jpg?raw=true)
-<img src="https://github.com/hiru92/Wallpapers/blob/main/dark-light-wallpaper_16.jpg" width="128" />
+<img src="https://github.com/hiru92/Wallpapers/blob/main/lightWallpaper_16.jpg" width="128" />
