@@ -10,4 +10,8 @@ On Windows copy all the wallpapers file to any where you want eg. username\Pictu
 on android just copy files in sd card or internal sdcard directory named "Pictures"
 --------------------------------------------------------------------
 
-[<img src="https://img.youtube.com/vi/fNO0FNmurjg/maxresdefault.jpg" width="50%">](https://youtu.be/fNO0FNmurjg)
+![alt text](https://github.com/hiru92/Wallpapers/blob/main/dark-light-wallpaper04.jpg?raw=true)
+<img src="https://github.com/hiru92/Wallpapers/blob/main/assets/blue-lightR_GIF.gif?raw=true" width="1024" title="BlueLightVideo" /> (https://github.com/hiru92/Wallpapers/blob/main/videos/blue-light_rotating_1440p.mkv?raw=true)
+<img src="https://github.com/hiru92/Wallpapers/blob/main/lightWallpaper_16.jpg" width="512" title="greenLight" />
+<img src="https://github.com/hiru92/Wallpapers/blob/main/lightWallpaper08_2160p.jpg" width="512" title="yellowLight" />
+<img src="https://github.com/hiru92/Wallpapers/blob/main/lightWallpaper01_2160p.jpg" width="512" title="purpleLight" />
