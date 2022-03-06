@@ -11,6 +11,13 @@ On Android just copy files in sd card or internal sdcard directory named "Pictur
 --------------------------------------------------------------------
 
 <<<<<<< HEAD
+<img src="https://github.com/hiru92/Wallpapers/blob/main/space/Kapteyns_b_ice_ocean01.jpg?raw=true" width="1080" title="Kapteyn's_b" />
+<img src="https://github.com/hiru92/Wallpapers/blob/main/space/blueOceanplanet_TDL_clouds.jpg?raw=true" width="1080" title="Blue Ocean Planet with Clouds" />
+<img src="https://github.com/hiru92/Wallpapers/blob/main/wormHoleWallpaper02_4K.jpg?raw=true" title="near worm hole open" />
+<img src="https://github.com/hiru92/Wallpapers/blob/main/wormHoleWallpaper04_4K.jpg?raw=true" title="worm hole open" />
+<img src="https://github.com/hiru92/Wallpapers/blob/main/wormHoleWallpaper01_4K.jpg?raw=true" title="worm hole active" />
+<img src="https://github.com/hiru92/Wallpapers/blob/main/wormHoleWallpaper07_4K.jpg?raw=true" title="worm hole semi active" />
+<img src="https://github.com/hiru92/Wallpapers/blob/main/wormHoleWallpaper08_4K.jpg?raw=true" title="worm hole inactive" />
 ![alt_text](https://github.com/hiru92/Wallpapers/blob/main/dark-light-wallpaper04.jpg?raw=true)
 <img src="https://github.com/hiru92/Wallpapers/blob/main/assets/blue-lightR_GIF.gif?raw=true" width="1024" title="BlueLightVideo" /> (https://github.com/hiru92/Wallpapers/blob/main/videos/blue-light_rotating_1440p.mkv?raw=true)
 <img src="https://github.com/hiru92/Wallpapers/blob/main/lightWallpaper_16.jpg?raw=true" width="512" title="greenLight" />
