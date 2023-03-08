@@ -12,8 +12,8 @@ On Android just copy files in sd card or internal sdcard directory named "Pictur
 
 <<<<<<< HEAD
 ![grass_land3](/grassLand3_2023.jpg?raw=true)
-![grass_land4](/grassLand4.png)
-![icy_planet](https://github.com/hiru92/Wallpapers/blob/main/ice_planet_wallpaper_4k_by_gghiru.jpg)
+![grass_land4](/grassLand4.png?raw=true)
+![icy_planet](/ice_planet_wallpaper_4k_by_gghiru.jpg?raw=true)
 <img src="https://github.com/hiru92/Wallpapers/blob/main/pinkiswhiteWormhole_wallpaper01.jpg?raw=true" width="1080" title="pinkwhite wormhole" />
 <img src="https://github.com/hiru92/Wallpapers/blob/main/space/Kapteyns_b_ice_ocean01.jpg?raw=true" width="1080" title="Kapteyn's_b" />
 <img src="https://github.com/hiru92/Wallpapers/blob/main/space/blueOceanplanet_TDL_clouds.jpg?raw=true" width="1080" title="Blue Ocean Planet with Clouds" />
