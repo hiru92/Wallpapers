@@ -12,7 +12,7 @@ On Android just copy files in sd card or internal sdcard directory named "Pictur
 
 <<<<<<< HEAD
 Click for Download
-![golden_yellow_cube] (/glowing_golden_cube01.jpg?raw=true)
+![golden_yellow_cube](/glowing_golden_cube01.jpg?raw=true)
 ![snow_planets](/snowPlanets_planet01.jpg?raw=true)
 ![grass_land7](/grassFieldLand7.jpg?raw=true)
 ![grass_land5](/grass_field_Land5.jpg?raw=true)
