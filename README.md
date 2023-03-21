@@ -12,8 +12,8 @@ On Android just copy files in sd card or internal sdcard directory named "Pictur
 
 <<<<<<< HEAD
 Click for Download
-![black_hole_poster02] (/blackhole_poster_wallpaper02.jpg?raw=true)
-![black_hole_poster01] (/blackhole_poster_wallpaper01.jpg?raw=true) 
+![black_hole_poster02](/blackhole_poster_wallpaper02.jpg?raw=true)
+![black_hole_poster01](/blackhole_poster_wallpaper01.jpg?raw=true) 
 ![golden_yellow_cube](/glowing_golden_cube01.jpg?raw=true)
 ![snow_planets](/snowPlanets_planet01.jpg?raw=true)
 ![grass_land7](/grassFieldLand7.jpg?raw=true)
