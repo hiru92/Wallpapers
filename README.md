@@ -12,6 +12,8 @@ On Android just copy files in sd card or internal sdcard directory named "Pictur
 
 <<<<<<< HEAD
 Click for Download
+![blackhole_top_wall](/blackhole_top_wallpaper01080p.jpg?raw=true)
+![outer_space_nebula_wallpaper](/outer_space_nebula_wallpaper01080p.jpg?raw=true)
 ![abstract_light_wall](/abstract_light_wallpaper_1080p.jpg?raw=true)
 ![water_splash_wallpaper02](/water_splash_wallpaper_02.jpg?raw=true)
 ![water_splash_wallpaper01](/water_splash_wallpaper01.jpg?raw=true)
